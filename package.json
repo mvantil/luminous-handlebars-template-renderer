@@ -1,0 +1,21 @@
+{
+  "name": "luminous-handlebars-template-renderer",
+  "version": "0.1.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "lib/luminous-handlebars-template-renderer.js",
+  "dependencies": {
+    "handlebars": "*",
+    "async": "*",
+    "underscore": "*",
+    "luminous": "~0.0.2"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "scripts": {
+    "test": "jasmine-node --forceexit specs/"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
